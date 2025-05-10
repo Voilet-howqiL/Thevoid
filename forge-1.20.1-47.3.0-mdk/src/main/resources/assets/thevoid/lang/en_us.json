@@ -1,0 +1,43 @@
+{
+  "item.thevoid.bonehandle_spear": "BoneHandle Spear",
+  "item.thevoid.desert_spear.desc": "§6Suffering§r\n§7You would not hope to facing enemy without this",
+  "item.thevoid.darkin_greatsword": "DARKIN GREATSWORD",
+  "item.thevoid.desert_spear": "Desert Spear",
+  "item.thevoid.chrononacht": "Winchheart",
+  "item.thevoid.chrononacht.title": "Winchheart - Time's Arbiter",
+  "item.thevoid.chrononacht.type": "Type: §8Tactical Crossbow",
+  "item.thevoid.chrononacht.usage": "A blade's caress—the deeper it loves, the longer it lingers.",
+  "item.thevoid.zephyrgraven": "Zephyrgraven",
+  "item.thevoid.Zephyrgraven.title": "The Scourge of Shifting Sands",
+  "item.thevoid.disc_langrenqingge": "§bVinyl record",
+  "item.thevoid.disc_lastdance": "§bVinyl record",
+  "item.thevoid.jamie_win": "§bVinyl record",
+  "item.thevoid.disc_leiqiao.desc": "§fleiqiao - wubai",
+  "item.thevoid.disc_langrenqingge.desc": "§f浪人情歌 - 伍佰",
+  "item.thevoid.disc_lastdance.desc": "§fLast Dance - 伍佰",
+  "item.thevoid.jamie_win.desc": "§fMr.Top.Player",
+  "item.thevoid.disc_leiqiao": "§bVinyl record",
+  "item.thevoid.test.tip": "May cause sudden deafness... and dismemberment.",
+  "item.thevoid.test": "Buzzzzz",
+  "item.thevoid.hum": "Hum",
+  "item.thevoid.hum.tip": "A little bit Buzzzzz",
+  "item.thevoid.roujiamo": "§bEast Burger",
+  "Item.Food.roujiamo.tips":"Do not eat so fast",
+  "item.thevoid.model_test": "Crude Spear",
+  "item.thevoid.model_test.tip": "Blade devoured by rust, weight distribution that defies geometry, a handle bent like a drunkard's smile. Throwing it is an act of faith — if it miraculously strikes true, the gods are either mocking you... or taking pity. (Physics? Never heard of her.)",
+  "item.thevoid.dust_blade": "smoldering stick",
+
+
+
+  "itemGroup.thevoid": "The Void",
+  "itemGroup.thevoid-DISC": "The Void-Disc",
+  "itemGroup.thevoid-item": "The Void-Item and Blocks",
+
+
+  "block.thevoid.masroom": "mushroom",
+  "Block.thevoid.masroom.tooltip": "eeeeewwwwwwwww",
+  "block.thevoid.oak_stool": "Oak Stool",
+  "block.thevoid.oak_stool.desc": "Softyyyy"
+
+
+}

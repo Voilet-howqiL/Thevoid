@@ -1,0 +1,75 @@
+{
+  "leiqiao_wubai": {
+    "subtitle": "subtitles.thevoid.leiqiao_wubai",
+    "sounds": [
+      {
+        "name": "thevoid:leiqiao_wubai",
+        "stream": true
+      }
+    ]
+  },
+  "lastdance-wubai": {
+    "subtitle": "subtitles.thevoid.lastdance-wubai",
+    "sounds": [
+      {
+        "name": "thevoid:lastdance-wubai",
+        "stream": true
+      }
+    ]
+  },
+  "langrenqingge-wubai": {
+    "subtitle": "subtitles.thevoid.langrenqingge-wubai",
+    "sounds": [
+      {
+        "name": "thevoid:langrenqingge-wubai",
+        "stream": true
+      }
+    ]
+  },
+  "mr_top_player": {
+    "subtitle": "subtitles.thevoid.mr_top_player",
+    "sounds": [
+      {
+        "name": "thevoid:mr_top_player",
+        "stream": true
+      }
+    ]
+  },
+
+  "buzzzz_hit": {
+    "subtitle": "subtitles.thevoid.Buzzzzz resonates",
+    "sounds": [
+      {
+        "name": "thevoid:buzzzz_hit",
+        "stream": false
+      }
+    ]
+  },
+  "buzzzz_heavyhit": {
+    "subtitle": "subtitles.thevoid.Buzzzzz Heavy resonates",
+    "sounds": [
+      {
+        "name": "thevoid:buzzzz_heavyhit",
+        "stream": false
+      }
+    ]
+  },
+  "buzzzz_shake": {
+    "subtitle": "subtitles.thevoid.Earth shaking",
+    "sounds": [
+      {
+        "name": "thevoid:buzzzz_shake",
+        "stream": false
+      }
+    ]
+  },
+  "hum_hit": {
+    "subtitle": "subtitles.thevoid.Hummmm",
+    "sounds": [
+      {
+        "name": "thevoid:hum_hit",
+        "stream": false
+      }
+    ]
+  }
+}

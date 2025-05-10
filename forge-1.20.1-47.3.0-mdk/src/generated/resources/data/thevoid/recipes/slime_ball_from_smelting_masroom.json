@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "masroom",
+  "ingredient": {
+    "item": "thevoid:masroom"
+  },
+  "result": "minecraft:slime_ball"
+}

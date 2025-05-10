@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "thevoid:block/masroom","weight": 4},
+      {"model": "thevoid:block/masroom_1","weight": 2},
+      {"model": "thevoid:block/masroom_2","weight": 3},
+      {"model": "thevoid:block/masroom_3","weight": 2}
+    ]
+  }
+}

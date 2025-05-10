@@ -1,0 +1,47 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "thevoid:block/bloom",
+		"base": "thevoid:block/bloom"
+	},
+	"elements": [
+
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {
+				"axis": "y",
+				"angle": 45,
+				"origin": [8, 8, 8],
+				"rescale": true
+			},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#base"}
+			}
+		},
+
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {
+				"axis": "y",
+				"angle": 45,
+				"origin": [8, 8, 8],
+				"rescale": true
+			},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#base"}
+			}
+		}
+	],
+	"render_types": {
+		"layers": [
+			{
+				"target": "base",
+				"render_type": "cutout"
+			}
+		]
+	}
+}

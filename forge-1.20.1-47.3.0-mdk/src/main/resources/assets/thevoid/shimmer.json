@@ -1,0 +1,29 @@
+{
+  "ColorReference": {
+    "masroom_glow": { "r": 150, "g": 220, "b": 100, "a": 180 }
+  },
+  "Bloom": [
+    { "block": "thevoid:masroom" },
+    { "block": "thevoid:potted_masroom" }
+  ],
+  "LightBlock": [
+    {
+      "block": "thevoid:masroom",
+      "color": "#masroom_glow",
+      "radius": 3
+    },
+    {
+      "block": "thevoid:potted_masroom",
+      "color": "#masroom_glow",
+      "radius": 2
+    }
+  ],
+  "LightItem": [
+
+    {
+      "item_id": "thevoid:masroom",
+      "color": "#masroom_glow",
+      "radius": 2
+    }
+  ]
+}

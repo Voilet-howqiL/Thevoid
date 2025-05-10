@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_masroom": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thevoid:masroom"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thevoid:slime_ball_from_smelting_masroom"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_masroom",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thevoid:slime_ball_from_smelting_masroom"
+    ]
+  },
+  "sends_telemetry_event": false
+}

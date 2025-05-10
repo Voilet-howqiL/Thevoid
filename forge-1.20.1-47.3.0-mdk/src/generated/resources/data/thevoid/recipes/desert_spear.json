@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "thevoid",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "item": "thevoid:zephyrgraven"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "F#F",
+    " # "
+  ],
+  "result": {
+    "item": "thevoid:desert_spear"
+  },
+  "show_notification": true
+}

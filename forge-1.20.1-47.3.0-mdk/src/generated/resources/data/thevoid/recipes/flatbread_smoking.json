@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 300,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "thevoid:dough"
+  },
+  "result": "thevoid:baked_flatbread"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "layer=bottom": {
+      "model": "thevoid:block/tall_grass_bottom"
+    },
+    "layer=mid": {
+      "model": "thevoid:block/tall_grass_mid"
+    },
+    "layer=top": {
+      "model": "thevoid:block/tall_grass_top"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "thevoid.Food",
+  "key": {
+    "P": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "W": {
+      "item": "minecraft:bread"
+    }
+  },
+  "pattern": [
+    " W ",
+    " P ",
+    " W "
+  ],
+  "result": {
+    "item": "thevoid:roujiamo"
+  },
+  "show_notification": true
+}
